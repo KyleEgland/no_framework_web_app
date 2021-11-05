@@ -6,6 +6,10 @@ A web application that doesn't use a JavaScript framework.
 
 Not being a fan of frameworks (I often find their limitations too...limiting...) I wanted to learn how to create web applications without them, e.g., "vanilla Javascript." This project is intended to be an "evergreen" repository - providing a constant demonstration of my learning and an opportunity to do so. This application was created using the video _JavaScript BookList App | No Frameworks_ from the channel Traversy Media which you can find [here](https://youtu.be/JaMCxVWtW58) (as well as in the Credits and Resources section of this document).
 
+### Caveats
+
+So, there are actually some frameworks - Font Awesome and Bootstrap (via Bootswatch) provide content that I didn't otherwise build. These technologies are to be replaced in future updates to this project.
+
 ## Running the App
 
 This application can be seen [here](https://kyleegland.github.io/no_framework_web_app/), served via [GitHub Pages](https://pages.github.com/). Should you want to edit the code, the site can be served via any simple server program, application, or extension. I use, and would recommend, editing with [Visual Studio Code](https://code.visualstudio.com/) which has a plethora of extensions, including [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), that can serve this project locally.
@@ -19,6 +23,10 @@ Alternatively, Python 3 can be used to invoke a server from the command line tha
 ## Credits and Resources
 
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+- [Font Awesome](https://fontawesome.com)
+- [Bootstrap](https://getbootstrap.com)
+- [Bootswatch](https://bootswatch.com/)
 - [GitHub Pages](https://pages.github.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Python 3 documentation - http.server](https://docs.python.org/3/library/http.server.html)
